@@ -1883,7 +1883,7 @@ textarea.w-input,textarea.w-select{
      flex: 0px;
      border-top-left-radius: 20px;
      border-bottom-left-radius: 20px;
-     background-image: url("https://uploads-ssl.webflow.com/5fb693f42e88ed3abeb41fe7/5fb80ca14825ead55645c8b5_20201115-MP-095.jpg");
+     background-image: url("./images/mobile-portrait.png");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -2073,7 +2073,7 @@ textarea.w-input,textarea.w-select{
          flex-grow: 1;
          border-top-left-radius: 20px;
          border-bottom-left-radius: 20px;
-         background-image: url("https://uploads-ssl.webflow.com/5fb693f42e88ed3abeb41fe7/5fb80ca1ca442ee45a60240e_20201115-MP-099.jpg");
+         background-image: url("./images/desktop-portrait.png");
          background-position: 50% 50%;
          background-size: cover;
     }
@@ -2116,7 +2116,7 @@ textarea.w-input,textarea.w-select{
          border-top-left-radius: 20px;
          border-top-right-radius: 20px;
          border-bottom-left-radius: 0px;
-         background-image: url("https://uploads-ssl.webflow.com/5fb693f42e88ed3abeb41fe7/5fb80ca070814d6b2e3b4a7b_20201115-MP-081.jpg");
+         background-image: url("./images/tablet-portrait.png");
          background-position: 50% 50%;
          background-size: cover;
     }
@@ -2202,7 +2202,7 @@ textarea.w-input,textarea.w-select{
     }
      .div-block {
          margin: -20px -20px 0px;
-         background-image: url("https://uploads-ssl.webflow.com/5fb693f42e88ed3abeb41fe7/5fb80ca1ca442ee45a60240e_20201115-MP-099.jpg");
+         background-image: url("./images/mobile-portrait.png");
     }
      .section {
          margin-right: 20px;
